@@ -1,4 +1,4 @@
-# Hackathon Starter
+# Hackathon Starter Test
 
 A Next.js + shadcn UI kit pre-themed and ready to ship. Three page templates cover the most common patterns. Clone one, rename it, replace the data — done.
 
